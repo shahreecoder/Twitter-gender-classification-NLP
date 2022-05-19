@@ -1,9 +1,11 @@
-**# Twitter-gender-classification-NLP**
+# Twitter-gender-classification-NLP
 In this Python notebook, I am going to classify gender of users in Twitter with Natural Language Processing(NLP)
 Gender classification of twitter users with NLP
 
 **1.Introduction:** 
 With the rise of social media in this ear, there has been a surge in interest in automatically identifying users based on their informal content. In this context, the research of other aspects intrinsic to users, such as political inclinations, personality, and gender, as well as the categorization of users in categories such as age, ethnicity, origin, and race has gained a lot of interest notably based on Twitter data. The current work focuses on the job of gender categorization in tweets written in Portuguese by extracting gender expression linguistic cues utilizing 25 attributes, which are often employed on text attribution tasks.
+
+##Check out more at [Shahreecoder](https://shahreecoder.com/).
 
 **2.Objective:**
 The major objective is to predict user gender based on Twitter profile information. 
@@ -95,6 +97,7 @@ Vectorization is a methodology in NLP to map words and phrases from vocabulary t
 
 **_6.Conculion:_**
 In this case we use naïve Bayes classification to predicate gender of twitter user, with the accuracy of 0.541998. as mention in Figure 5.7 in this case we perform read CSV file, Tokenization and removing stop words, and perform Lemmatization. 
+
 **_7.Referance:_**
 [1] 	K. CrowdFlower, "Twitter User Gender Classification," [Online]. Available: https://www.kaggle.com/datasets/crowdflower/twitter-user-gender-classification.
 
